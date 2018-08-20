@@ -1,0 +1,3 @@
+[submodule "si_parser"]
+	path = si_parser
+	url = https://github.com/gymk/simple-si-parser
