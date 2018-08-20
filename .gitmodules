@@ -1,3 +1,6 @@
 [submodule "si_parser"]
 	path = si_parser
 	url = https://github.com/gymk/simple-si-parser
+[submodule "mempool_manager"]
+	path = mempool_manager
+	url = https://github.com/gymk/memory-pool-manager.git
